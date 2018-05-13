@@ -412,7 +412,7 @@ I also had to work on the class library for the job class so that the data could
 
 I managed to follow this strategy and structure to create the rest of the testing’s.  
 
-Validations (Applicant)
+###Validations (Applicant)
 
 Whenever the applicant is registering, the system requires the applicant to put in characters that are either below 22 characters. For the address, age and password field they are required to put in below 40 characters, otherwise the system will prompt an error message saying a maximum of 22 or 40 characters allowed as shown on figure 55. 
  
@@ -436,7 +436,7 @@ Furthermore, whenever the applicant inputs in an incorrect email address, the sy
  
 (Figure 57)
 
-Validations (Admin)
+###Validations (Admin)
 
 Similarly, whenever the admin wants to add a job to the system, the system would require the admin to input into the fields characters that are below 22 for the job name, job type, and job postcode. The system also requires characters that are below 100 for job description field, and characters below 40 is required for the job address field as shown on figure 58. 
  
