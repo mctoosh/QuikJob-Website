@@ -1,0 +1,14 @@
+H:\Year 3\Team Development Project\MainJobPortalProject\Test Framework\bin\Debug\Test Framework.dll
+H:\Year 3\Team Development Project\MainJobPortalProject\Test Framework\bin\Debug\Test Framework.pdb
+H:\Year 3\Team Development Project\MainJobPortalProject\Test Framework\obj\Debug\Test Framework.dll
+H:\Year 3\Team Development Project\MainJobPortalProject\Test Framework\obj\Debug\Test Framework.pdb
+H:\Year 3\Team Development Project\MainJobPortalProject\Test Framework\obj\Debug\Test Framework.csprojResolveAssemblyReference.cache
+H:\Year 3\Team Development Project\MainJobPortalProject\Test Framework\bin\Debug\ClassLibrary.dll
+H:\Year 3\Team Development Project\MainJobPortalProject\Test Framework\bin\Debug\ClassLibrary.pdb
+C:\MainJobPortalProject\Test Framework\bin\Debug\Test Framework.dll
+C:\MainJobPortalProject\Test Framework\bin\Debug\Test Framework.pdb
+C:\MainJobPortalProject\Test Framework\bin\Debug\ClassLibrary.dll
+C:\MainJobPortalProject\Test Framework\bin\Debug\ClassLibrary.pdb
+C:\MainJobPortalProject\Test Framework\obj\Debug\Test Framework.csprojResolveAssemblyReference.cache
+C:\MainJobPortalProject\Test Framework\obj\Debug\Test Framework.dll
+C:\MainJobPortalProject\Test Framework\obj\Debug\Test Framework.pdb

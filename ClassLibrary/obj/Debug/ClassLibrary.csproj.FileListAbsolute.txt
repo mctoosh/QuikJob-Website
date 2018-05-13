@@ -1,0 +1,7 @@
+H:\Year 3\Team Development Project\MainJobPortalProject\ClassLibrary\bin\Debug\ClassLibrary.dll
+H:\Year 3\Team Development Project\MainJobPortalProject\ClassLibrary\bin\Debug\ClassLibrary.pdb
+H:\Year 3\Team Development Project\MainJobPortalProject\ClassLibrary\obj\Debug\ClassLibrary.dll
+H:\Year 3\Team Development Project\MainJobPortalProject\ClassLibrary\obj\Debug\ClassLibrary.pdb
+H:\Year 3\Team Development Project\MainJobPortalProject\ClassLibrary\obj\Debug\ClassLibrary.Properties.Resources.resources
+H:\Year 3\Team Development Project\MainJobPortalProject\ClassLibrary\obj\Debug\ClassLibrary.csproj.GenerateResource.Cache
+H:\Year 3\Team Development Project\MainJobPortalProject\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
