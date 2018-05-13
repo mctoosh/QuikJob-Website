@@ -1,10 +1,6 @@
 # QuikJob-Website
 QuikJob is a job portal website where applicants are able to apply for a job
 
-Introduction
-Quik Job is a job portal website where applicants are able to apply for different types of jobs. The website will have two users. The first user is the applicant, where they will be able to apply for jobs. The second user is the admin staff, where they are able to add the jobs and the job categories as well as delete the job categories.   
-Core Functionality of Product
-
 The system that is created is a job portal website called QuickJob Ltd. The core functionality of the system is to allow the applicant to apply for different types of jobs. Before the applicant can apply for any jobs they would need to be a member of the website. Here they have the option of registering to the system. Once registered they can search for more jobs and save these jobs to their account. They then can apply for the saved jobs where the system would then redirect the applicants to a page where they can update their personal details. Once they complete updating their details they would successfully have applied for the job. 
 The details would then be passed on to the admin side where they can view all the details of the applicant including their personal details and also the jobs that they have applied for. They can also download any CV that the applicant has. Furthermore, the admin would also be able to add jobs and job categories onto the system. However, before the admin can complete any of these actions, he would need to be a member of an admin that possess login details so that he could enter the admin page. 
 Below will show step by step how the core functional job portal website works.    
