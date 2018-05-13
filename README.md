@@ -334,3 +334,134 @@ Furthermore, if the applicant puts in the wrong login details, the system would 
 
  
 (Figure 45)
+
+
+
+# Documentation
+### Use Case Diagram
+![image](https://user-images.githubusercontent.com/15992710/39969251-fbb7ae0a-56d0-11e8-9155-f1fff843d34b.png)
+
+![image](https://user-images.githubusercontent.com/15992710/39969266-282d3810-56d1-11e8-96e3-dc42cb14c50f.png)
+
+### Entity Relationship Diagrams  
+![image](https://user-images.githubusercontent.com/15992710/39969287-73f45cce-56d1-11e8-9637-42aeeca07afe.png)
+
+# Testing
+There was an actual testing strategy carried out for the system, where all the testing’s that were carried out managed to pass successfully, there were 285 tests carried out as shown on figure 46. 
+    
+    
+   ![image](https://user-images.githubusercontent.com/15992710/39969415-2414757a-56d3-11e8-8c88-9aba64dcee57.png)
+    
+(Figure 46)
+
+I first started off creating a test framework class where I was able to add five different test classes as shown on figure 47. Furthermore, I also created a class library as shown on figure 48.  
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/15992710/39969433-7cda8082-56d3-11e8-9ff2-c83a5ad34d1b.png)
+ 
+(Figure 47)
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/15992710/39969443-a04803fa-56d3-11e8-9e5a-f682deb67ad7.png)
+
+ 
+(Figure 48)
+
+For each test class I would have different test methods inside them. I first started off with testing the job table. For each field property in the job table I created an instance as shown on figure 49. 
+
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/15992710/39969446-a901ea42-56d3-11e8-85b5-3a0929ec7776.png)
+ 
+(Figure 49)
+
+Furthermore, testing was carried out for the validation methods for the job class. At this stage I was able to use my test plan to carry out the rest of the testing’s as shown on figure 50 and 51. 
+   
+   
+   ![image](https://user-images.githubusercontent.com/15992710/39969449-b6f311b2-56d3-11e8-9a54-e12f3ac8e412.png)
+
+   
+(Figure 50)
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/15992710/39969459-c3dd84d4-56d3-11e8-8f46-e8f9d44cf1d0.png)
+ 
+(Figure 51)
+
+Moreover, I also had to work on the class library where I had to write the validation range for each job field as shown on figure 52. 
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/15992710/39969463-d0b9e530-56d3-11e8-8817-8792b658c3c1.png)
+ 
+(Figure 52)
+
+I also was able to complete the testing for find method as shown on figure 53. 
+  
+  
+  ![image](https://user-images.githubusercontent.com/15992710/39969467-d9f4dbaa-56d3-11e8-924f-8adbf6673499.png)
+  
+(Figure 53)
+
+I also had to work on the class library for the job class so that the data could be found from the database as shown on figure 54. 
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/15992710/39969470-e4a89e38-56d3-11e8-8711-d69ba17ef3a8.png)
+
+ 
+(Figure 54)
+
+I managed to follow this strategy and structure to create the rest of the testing’s.  
+
+Validations (Applicant)
+
+Whenever the applicant is registering, the system requires the applicant to put in characters that are either below 22 characters. For the address, age and password field they are required to put in below 40 characters, otherwise the system will prompt an error message saying a maximum of 22 or 40 characters allowed as shown on figure 55. 
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/15992710/39969480-0fcd4bb8-56d4-11e8-9eb9-4b0d7cbc8e55.png)
+ 
+(Figure 55)
+
+Furthermore, whenever the applicant leaves any fields blank, the system would require the applicant to put in a minimum of one character, otherwise the system would prompt an error message of a star sign indicating this field must be filled as shown on figure 56. 
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/15992710/39969483-1a18a16c-56d4-11e8-867f-006fbf785159.png)
+
+ 
+(Figure 56)
+
+Furthermore, whenever the applicant inputs in an incorrect email address, the system will prompt an error message saying incorrect email as shown on figure 57. 
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/15992710/39969493-37a3b974-56d4-11e8-9f2e-13474ec4c52a.png)
+ 
+(Figure 57)
+
+Validations (Admin)
+
+Similarly, whenever the admin wants to add a job to the system, the system would require the admin to input into the fields characters that are below 22 for the job name, job type, and job postcode. The system also requires characters that are below 100 for job description field, and characters below 40 is required for the job address field as shown on figure 58. 
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/15992710/39969495-4293f51a-56d4-11e8-9899-62f84281a262.png)
+ 
+(Figure 58)
+
+Moreover, the system also requires the admin to input into the fields minimum of one character, otherwise the system will prompt and error message of a star sign indicating that the field must be filled in as shown on figure 59. 
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/15992710/39969496-4b15ae18-56d4-11e8-92f6-3c788ddc2ddb.png)
+ 
+(Figure 59)
+The same validation is added to the job category name, where the system requires the admin to input into the field a character that is below 22 characters and also to at least have a one character as a minimum as shown on figure 60 and 61. 
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/15992710/39969502-554b316e-56d4-11e8-96e0-9ca2abc8e8f1.png)
+ 
+(Figure 60)
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/15992710/39969510-675b648c-56d4-11e8-900c-3bbf54a27c09.png)
+ 
+(Figure 61)
+
+
+
