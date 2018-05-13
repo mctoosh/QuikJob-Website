@@ -12,7 +12,8 @@ View Applicant Details (Admin)
 
 Before the admin enters the admin page, they must put in the correct username and password. If they put in the wrong details the system prompts an error message
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39968948-1277de02-56cd-11e8-8795-c03a380a7f09.png)
+
  
 (Figure 2)
 
@@ -20,62 +21,71 @@ Before the admin enters the admin page, they must put in the correct username an
 
 The code that I used to prompt the error is 
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39968961-428a1b1e-56cd-11e8-9cc0-f77f4d33524b.png)
+
  
 (Figure 3)
 
 Once the admin enters the correct login details, they will be redirected to the admin home page where they are able to view all the applicants that have applied for a job. 
  
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39968984-8c8a162e-56cd-11e8-95f6-95cbc83a736b.png)
+
  
 (Figure 4)
 
 On this page the admin will be able to view the details of the applicant such as their first and last name. furthermore, with this page they are able to contact the applicants by either using their email address or their phone number. Moreover, the admin has the option to download the user’s CV or to view the applicant’s full details. Moreover, by using the left side if the page, the admin can get to different pages. 
  
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39968992-974139bc-56cd-11e8-8c84-9ac8e995a9a3.png)
+
  
 (Figure 5)
 
 Once the admin selects view full details for a specific applicant, the system will display the full details of the applicant. On this page the admin will be able to view the applicant details and also the jobs they have applied for, such as figure 5 shows that the applicant has applied for the job Google as an administrator. 
  
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39968995-a0bf0190-56cd-11e8-9d7d-7f8fc587fe4e.png)
+
  
 (Figure 6)
 
 The admin then has the option to download the applicant’s CV, so that they can view further details of the applicant such as work experiences and educations. Once the admin clicks on download CV, the system will prompt a save as window where the admin can save the CV on to his system. The admin is then able to view the CV as shown on figure 7. 
  
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39969000-b5ed3a82-56cd-11e8-8b04-cb65ab662f10.png)
+
  
 (Figure 7)
 
 Add Jobs (Admin)
  
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39969002-c0b387a0-56cd-11e8-88ba-04344edfb6e2.png)
+
  
 (Figure 8)
 
 On this page the admin will be able to add new jobs so that the applicants can apply for them. Once the admin has filled in the details he has the option to add a company or job image as shown on figure 9.  
  
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39969003-c9389c62-56cd-11e8-8c91-71e1ca70b32f.png)
+
  
 (Figure 9)
 
 Furthermore, the admin would need to add the job on to a category where he would select it from the dropdown list of categories as shown on figure 10. 
  
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39969012-e32d9ef6-56cd-11e8-9d68-e7cb8b605041.png)
+
  
 (Figure 10)
 
 Once the admin fills in all the details for the job, the web page will then display a message telling them they have successfully uploaded the job onto the user home page, where they are able to apply for this job, as shown as figure 11.  
 
 
+![image](https://user-images.githubusercontent.com/15992710/39969017-f07eaa1e-56cd-11e8-86a0-8be92ac02776.png)
 
  
 (Figure 11)
@@ -83,14 +93,15 @@ Once the admin fills in all the details for the job, the web page will then disp
 Furthermore, all the characters are also removed from the textboxes as soon as the job is uploaded successfully as shown on figure 11. The code that I used to perform this action is shown on figure 12. 
  
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39969019-fb1236da-56cd-11e8-822f-cad01fae3959.png)
+
  
 (Figure 12)
 
 Add Job Category (Admin)
  
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39969021-05a91f28-56ce-11e8-80f7-e22d0c7cad08.png)
  
 (Figure 13)
 
@@ -98,10 +109,12 @@ On this page the admin is able to add Job categories on to the user home page. W
  
  
  
+![image](https://user-images.githubusercontent.com/15992710/39969031-19304cce-56ce-11e8-8ac5-9a72e199f33f.png)
  
 (Figure 14)
  
  
+![image](https://user-images.githubusercontent.com/15992710/39969036-2b3c0b74-56ce-11e8-882b-3f9a8ea86b90.png)
  
  
 (Figure 15)
@@ -110,18 +123,21 @@ The job category is then successfully displayed on to the page, as shown on figu
   
   
   
+![image](https://user-images.githubusercontent.com/15992710/39969039-379ea980-56ce-11e8-90b9-a1796c9049c2.png)
   
 (Figure 16)
 
 Once the admin has completed his work, he would need to logout from the admin web page by using the logout button as shown on figure 17 and 18. 
  
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39969045-4e991fda-56ce-11e8-9c25-bbeb0417fe71.png)
+
  
 (Figure 17)
 
  
  
+![image](https://user-images.githubusercontent.com/15992710/39969047-550c27ea-56ce-11e8-94b1-dc8e8d69e716.png)
  
  
 (Figure 18)
@@ -129,7 +145,7 @@ Once the admin has completed his work, he would need to logout from the admin we
 Once the admin selects the logout button the system will redirect the admin to the admin login page as shown on figure 19. 
  
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39969051-6aea044c-56ce-11e8-8d11-db096a759c86.png)
  
 (Figure 19)
 
@@ -137,12 +153,14 @@ Furthermore, the admin has the option to visit the User home page by clicking on
  
  
  
+![image](https://user-images.githubusercontent.com/15992710/39969052-7260280a-56ce-11e8-8f56-bfad208e2f92.png)
+
  
 (Figure 20)
 
 Display Jobs (Applicant)
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39969056-7d66bd36-56ce-11e8-9529-df3fa1934bd3.png)
  
  
 (Figure 21)
@@ -151,47 +169,46 @@ Once the applicant enters the website they will be displayed with this homepage 
 The applicants have the option to use the search text box to filter out the job that they are looking for as shown on figure 22 and 23. 
  
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39969058-8cb1acc4-56ce-11e8-95e3-284b0f3e3750.png)
  
 (Figure 22)
  
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39969062-a8463dc4-56ce-11e8-8cb5-d3c6eb8dadaf.png)
  
 (Figure 23)
 
 Furthermore, as you can see the search box on figure 23, I have used the SQL like operator, where it finds any value that has face on the web page. The code that I used for this to work is shown on figure 24. 
  
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39969071-c8c6f98a-56ce-11e8-8167-2beec6fa1465.png)
  
 (Figure 24)
 
 Furthermore, the applicant can also use the job categories that is displayed on the left of the home page as shown on figure 25. 
   
-  
-  
+  ![image](https://user-images.githubusercontent.com/15992710/39969075-d9812746-56ce-11e8-943c-a0b049cc1e69.png)
   
 (Figure 25)
 
 Once the applicant selects a category, the homepage will display all the related job roles to the applicant as shown on figure 26, only the software developer job roles are displayed. 
  
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39969082-e4844038-56ce-11e8-9748-bcb09760be69.png)
  
 (Figure 26)
 
 Once the applicant selects a job from the homepage, they will be redirected to the jobs description web page, where the applicant can find out further details of the job as shown on figure 27. 
    
    
-   
+   ![image](https://user-images.githubusercontent.com/15992710/39969095-031e5bbe-56cf-11e8-9b42-309a9c68b6c6.png)
    
 (Figure 27)
 
 Furthermore, the applicant has the choice to print out the description of the job by pressing the print button displayed on the bottom left corner of the home page as shown on figure 28. 
   
   
-  
+  ![image](https://user-images.githubusercontent.com/15992710/39969101-12ecc486-56cf-11e8-8f47-caaec48f58f0.png)
   
 (Figure 28)
 
@@ -199,14 +216,14 @@ If the applicant feels like this is the right job for him he has the option of s
 
  
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39969106-206d76fa-56cf-11e8-87b5-2fbfa66874b2.png)
  
 (Figure 29)
 
 The applicant then has the option to either apply for the saved job or to look for other jobs to apply for as well. As soon as the applicant is satisfied with the jobs he saved, he then would need to apply for the jobs by clicking on the button apply for jobs as shown on figure 30. 
 
  
- 
+![image](https://user-images.githubusercontent.com/15992710/39969109-2de7c25e-56cf-11e8-9a21-cbd6b7b8f5b5.png)
  
  
 (Figure 30)
@@ -214,7 +231,7 @@ The applicant then has the option to either apply for the saved job or to look f
 Moreover, if the applicant changes his mind about a job that he doesn’t feel comfortable with, he has the option of deleting that job from his saved list by clicking on the button delete. The job would then be deleted as shown on figure 31. 
    
    
-   
+   ![image](https://user-images.githubusercontent.com/15992710/39969114-3b181532-56cf-11e8-99e5-5080fc47214d.png)
    
 (Figure 31)
 
@@ -222,14 +239,14 @@ Once the applicant is completely happy with the jobs, he then can press the appl
 Applicant Authentication (Applicant)
   
   
-  
+  ![image](https://user-images.githubusercontent.com/15992710/39969117-467a9594-56cf-11e8-87d8-99dbc101165c.png)
   
 (Figure 32)
 
 If the applicant is not a member on the system he would then need to click on the Register here button, so that he can apply for jobs. Once the applicant selects the register here button, the system will redirect the applicant to the register page as shown on figure 33. 
 
  
- 
+![image](https://user-images.githubusercontent.com/15992710/39969120-4fa0f136-56cf-11e8-8fb1-b0aeaf4b7f82.png)
  
  
 (Figure 33)
@@ -237,33 +254,33 @@ If the applicant is not a member on the system he would then need to click on th
 On this page the applicant can register by putting in his details, he also has to put in his personal CV as shown on figure 34. 
  
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39969121-617fa9ba-56cf-11e8-9ada-ee2add7dc461.png)
  
 (Figure 34)
 
 Once the applicant registers, he would get a message that says the applicant has registered successfully and all the text boxes would be cleared as shown on figure 35.
  
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39969125-6ccc9d1e-56cf-11e8-80d7-89ab1806b92f.png)
  
 (Figure 35)
 
 The applicant can now login using the details he registered with. As soon as the applicant logs in to the system, the system would prompt a welcome message using the applicants first and last name as shown on figure 36. 
  
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39969126-745d0690-56cf-11e8-9892-5d92166773a3.png)
  
 (Figure 36)
 However, if the applicant saves a job and he is already a member and is able to sign in, the system would redirect the applicant straight to the update user details page, where the applicant can update any incorrect or outdated details of the applicant as shown on figure 39. 
 Once the applicant signs in to the system he would need to select saved jobs, so that he can apply for the job he saved before registering as shown on figure 37 and 38, furthermore, as shown on figure 37, once the applicant is logged in to the system, the navigation bar would show logout instead of login and also the applicant will get the option to view the jobs he applied for by selecting my jobs link. 
  
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39969128-7d97b796-56cf-11e8-920b-bc78486c7bd3.png)
  
 (Figure 37)
  
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39969130-89933ed0-56cf-11e8-97f7-eeb818f20c1f.png)
  
 (Figure 38)
 
@@ -271,7 +288,7 @@ View Applicant Details (Applicant)
 Once the applicant selects apply for jobs, the system would this type redirect him to the update user details page, where the applicant gets the option of updating any incorrect or outdated information about them self’s as shown on figure 39. 
  
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39969136-a69f5784-56cf-11e8-8625-9b32b7d2f1e8.png)
  
 (Figure 39)
 
@@ -279,26 +296,27 @@ Once the applicant is satisfied with his details he would select update and cont
 Furthermore, the applicant also has the option to view his details by selecting My jobs from the navigation bar as shown on figure 40 and 41. 
  
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39969143-b87bd784-56cf-11e8-8e3b-816f16033fb9.png)
  
 (Figure 40)
  
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39969144-bfa20bfa-56cf-11e8-9708-603a8ce81909.png)
+
  
 (Figure 41)
 
 Furthermore, the applicant can also view the full details by selecting the link view full details where the page would then be redirected to the full details of the applicant as shown on figure 42. Furthermore, the applicant can also download a copy of his own CV by clicking on the link download CV here. 
  
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39969145-caee5acc-56cf-11e8-9136-33a0cd461b25.png)
  
 (Figure 42)
 
 Once the applicant has finished searching and applying for jobs, he then has to logout from his account by selecting the logout link on the navigation bar as shown on figure 43. 
  
  
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39969148-d450909e-56cf-11e8-8975-4b590ddf232e.png)
  
 (Figure 43)
 
@@ -306,14 +324,13 @@ Once the applicant logs out from his account the system will redirect the applic
 Furthermore, the link logout would be changed to login on the navigation bar as shown on figure 44. 
 
  
- 
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39969153-df8e0cf2-56cf-11e8-84a8-3cfeca99fd40.png)
  
 (Figure 44)
 
 Furthermore, if the applicant puts in the wrong login details, the system would prompt an error message as shown on figure 45. 
  
- 
- 
+ ![image](https://user-images.githubusercontent.com/15992710/39969157-ea43c7fe-56cf-11e8-8aef-69359771bf92.png)
+
  
 (Figure 45)
